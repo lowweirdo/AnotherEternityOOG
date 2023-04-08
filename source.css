@@ -430,10 +430,8 @@ Titlebar top buttons colors. Close, rezise and hide*/
   box-shadow: inset 0px 0px 5px 2.5px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
 }
 .accountProfilePopoutWrapper-3GskID [class^=menu-1QACrS]{
-  background: black !important;
-  border-radius: 15px;
-  border-color: rgb(var(--Neon-Rgb));
-  box-shadow: inset 0px 0px 5px 2.5px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
+  background: none !important;
+  box-shadow: none;
 }
 .scroller-1bVxF5 {
   background-color: transparent;
@@ -686,16 +684,10 @@ Titlebar top buttons colors. Close, rezise and hide*/
 
 /*User popout cards, fix "User info, Activity border-bottom"*/
 .top-K_jibn .selected-g-kMVV.themed-2-lozF.item-3XjbnG, .top-K_jibn .themed-2-lozF.item-3XjbnG:active {
-  background: black !important;
-  border-radius: 15px;
-  border-color: rgb(var(--Neon-Rgb));
-  box-shadow: inset 0px 0px 5px 2.5px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
+  border-bottom: none;
 }
 .top-K_jibn .selected-g-kMVV.themed-2-lozF.item-3XjbnG, .top-K_jibn .themed-2-lozF.item-3XjbnG {
-  background: black !important;
-  border-radius: 15px;
-  border-color: rgb(var(--Neon-Rgb));
-  box-shadow: inset 0px 0px 5px 2.5px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
+  border-bottom: none;
 }
 /*divider backgrounds*/
 .divider-1tWBgZ {
